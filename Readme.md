@@ -6,6 +6,7 @@ here first the image goes through grey scaling to convert rgb to one parameter, 
 This model detects wheather a person is man or woman by opening your webcam.
 
 2.Convolution Neural Network:
+(Note : Here the dataset must be split manually into training set and test set.)
 This is a basic model of Conv2D where there is no need of gray-scaling and hog transformations.
 This model detects wheather a person is man or woman by opening your webcam.
 
